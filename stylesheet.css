@@ -1,0 +1,64 @@
+body {
+	font: 20px Helvetica, Sans-Serif;
+	background: url(noise.png);
+}
+
+#pic {
+	float: right;
+}
+
+#button {
+	margin-left: 40%;
+	margin-right: 40%;
+	background-color: #cccccc;
+
+	border-radius: 15px;
+	height: 100px;
+}
+
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+#content-contact {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 42px;
+	font-weight: lighter;
+	letter-spacing: -2px;
+	border-bottom: 1px solid #999;
+}
+
+#content-summarycontent {
+	margin: 0 0 16px 0;
+	padding: 0 0 32px 0;
+
+	font-style: italic;
+	font-size: 22px;
+}
+
+#content-professionalheader {
+	font-size: 24px;
+}
+
+#content-educationalheader {
+	font-size: 24px;
+}
+
+#content-interestheader {
+	font-size: 24px;
+}
+
+.date {
+	float: right;
+}
+
+h3 {
+	border-bottom: 1px solid #999;
+}
+
+h4 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}	
